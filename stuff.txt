@@ -1,0 +1,31 @@
+dps
+442451
+
+data0 - 0.8260 seen
+      - 0.1740 unseen
+[1] ZSL accuracy [unseen ==> unseen]: 83.8%
+[1] ZSL accuracy [unseen ==> all]: 17.0%
+[1] ZSL accuracy [seen ==> seen]: 93.3%
+[1] ZSL accuracy [seen ==> all]: 92.1%
+[1] ZSL accuracy [all ==> all]: 84.2%
+
+[3] ZSL accuracy [unseen ==> unseen]: 97.0%
+[3] ZSL accuracy [unseen ==> all]: 72.0%
+[3] ZSL accuracy [seen ==> seen]: 99.3%
+[3] ZSL accuracy [seen ==> all]: 98.9%
+[3] ZSL accuracy [all ==> all]: 96.7%
+
+
+data1 - 0.4204 seen
+      - 0.5796 unseen
+[1] ZSL accuracy [unseen ==> unseen]: 53.8%
+[1] ZSL accuracy [unseen ==> all]: 23.3%
+[1] ZSL accuracy [seen ==> seen]: 96.3%
+[1] ZSL accuracy [seen ==> all]: 90.8%
+[1] ZSL accuracy [all ==> all]: 54.5%
+
+[3] ZSL accuracy [unseen ==> unseen]: 81.1%
+[3] ZSL accuracy [unseen ==> all]: 70.1%
+[3] ZSL accuracy [seen ==> seen]: 99.8%
+[3] ZSL accuracy [seen ==> all]: 98.7%
+[3] ZSL accuracy [all ==> all]: 83.7%
