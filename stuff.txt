@@ -10,22 +10,94 @@ data0 - 0.8260 seen
 [1] ZSL accuracy [all ==> all]: 84.2%
 
 [3] ZSL accuracy [unseen ==> unseen]: 97.0%
-[3] ZSL accuracy [unseen ==> all]: 72.0%
+[3] ZSL accuracy [unseen ==> all]: 72.1%
 [3] ZSL accuracy [seen ==> seen]: 99.3%
 [3] ZSL accuracy [seen ==> all]: 98.9%
 [3] ZSL accuracy [all ==> all]: 96.7%
+  seen - 0 or O:		Guess: 0 or O - 86.63		Guess: D - 9.29		Guess: Q - 2.06		Guess: 6 - 0.84		Guess: B - 0.26		
+  seen - 1:			Guess: 1 - 98.67		Guess: I - 0.36		Guess: J - 0.32		Guess: 3 - 0.23		Guess: 4 - 0.18		
+unseen - 2:			Guess: Z - 43.46		Guess: 3 - 20.17	Guess: J - 9.99		Guess: Q - 8.60		Guess: 8 - 6.29		
+  seen - 3:			Guess: 3 - 97.94		Guess: J - 0.52		Guess: B - 0.35		Guess: 8 - 0.34		Guess: 5 - 0.21		
+  seen - 4:			Guess: 4 - 95.05		Guess: H - 1.77		Guess: U - 1.17		Guess: A - 0.92		Guess: 1 - 0.34		
+  seen - 5:			Guess: 5 - 92.76		Guess: S - 3.17		Guess: 3 - 0.82		Guess: J - 0.71		Guess: 8 - 0.65		
+unseen - 6:			Guess: 6 - 40.68		Guess: G - 34.48	Guess: B - 5.10		Guess: 1 - 4.99		Guess: 8 - 4.99		
+unseen - 7:			Guess: 7 - 41.89		Guess: 4 - 24.24	Guess: 9 - 12.99	Guess: 3 - 8.14		Guess: 1 - 6.14		
+  seen - 8:			Guess: 8 - 94.30		Guess: B - 3.59		Guess: 1 - 0.31		Guess: 9 - 0.29		Guess: P - 0.25		
+unseen - 9:			Guess: 4 - 52.21		Guess: 9 - 38.29	Guess: 8 - 2.90		Guess: Q - 2.64		Guess: 3 - 1.62		
+  seen - A:			Guess: A - 97.56		Guess: H - 0.69		Guess: R - 0.40		Guess: M - 0.37		Guess: 1 - 0.26		
+  seen - B:			Guess: B - 97.25		Guess: 8 - 0.95		Guess: 3 - 0.62		Guess: R - 0.23		Guess: A - 0.20		
+  seen - C:			Guess: C - 95.79		Guess: L - 1.91		Guess: G - 0.75		Guess: T - 0.23		Guess: U - 0.21		
+  seen - D:			Guess: D - 96.10		Guess: J - 1.07		Guess: B - 0.84		Guess: 0 or O - 0.35	Guess: M - 0.22		
+unseen - E:			Guess: E - 34.84		Guess: F - 22.38	Guess: G - 14.87	Guess: C - 7.17		Guess: Z - 6.21		
+  seen - F:			Guess: F - 99.66		Guess: J - 0.17		Guess: G - 0.09		Guess: T - 0.09		
+  seen - G:			Guess: G - 96.23		Guess: B - 1.09		Guess: Q - 0.90		Guess: 6 - 0.24		Guess: C - 0.23		
+  seen - H:			Guess: H - 95.28		Guess: 4 - 1.05		Guess: N - 0.96		Guess: A - 0.57		Guess: K - 0.47		
+  seen - I:			Guess: I - 96.70		Guess: J - 2.14		Guess: 1 - 0.45		Guess: 2 - 0.27		Guess: Z - 0.18		
+  seen - J:			Guess: J - 96.61		Guess: T - 1.20		Guess: 1 - 0.58		Guess: U - 0.29		Guess: I - 0.26		
+  seen - K:			Guess: K - 96.98		Guess: X - 0.86		Guess: H - 0.70		Guess: R - 0.45		Guess: 1 - 0.14		
+unseen - L:			Guess: L - 55.25		Guess: Z - 14.24	Guess: 1 - 10.80	Guess: I - 6.99		Guess: C - 5.76		
+  seen - M:			Guess: M - 98.14		Guess: H - 1.00		Guess: N - 0.34		Guess: A - 0.21		Guess: W - 0.12		
+  seen - N:			Guess: N - 95.18		Guess: W - 1.98		Guess: H - 0.76		Guess: M - 0.44		Guess: J - 0.26		
+neithr - 0 or O:			
+  seen - P:			Guess: P - 96.72		Guess: D - 0.68		Guess: F - 0.52		Guess: 1 - 0.38		Guess: R - 0.37		
+  seen - Q:			Guess: Q - 96.20		Guess: P - 0.71		Guess: 9 - 0.65		Guess: G - 0.58		Guess: R - 0.57		
+  seen - R:			Guess: R - 94.71		Guess: A - 1.54		Guess: K - 0.99		Guess: B - 0.42		Guess: Q - 0.41		
+  seen - S:			Guess: S - 87.31		Guess: 5 - 7.90		Guess: J - 2.83		Guess: G - 0.52		Guess: 8 - 0.39		
+  seen - T:			Guess: T - 97.95		Guess: F - 0.72		Guess: 1 - 0.33		Guess: 7 - 0.17		Guess: 4 - 0.12		
+  seen - U:			Guess: U - 97.29		Guess: 4 - 0.57		Guess: M - 0.26		Guess: H - 0.23		Guess: W - 0.21		
+unseen - V:			Guess: U - 49.57		Guess: V - 29.22	Guess: Y - 8.78		Guess: K - 3.08		Guess: N - 3.04		
+unseen - W:			Guess: W - 58.18		Guess: U - 23.11	Guess: N - 13.87	Guess: H - 1.34		Guess: M - 1.06		
+  seen - X:			Guess: X - 96.38		Guess: K - 2.23		Guess: Y - 0.32		Guess: Z - 0.24		Guess: R - 0.18		
+unseen - Y:			Guess: Y - 36.11		Guess: X - 31.65	Guess: 1 - 11.40	Guess: 4 - 3.72		Guess: P - 3.46		
+  seen - Z:			Guess: Z - 97.78		Guess: 2 - 0.66		Guess: 3 - 0.25		Guess: I - 0.21		Guess: X - 0.18		
 
 
 data1 - 0.4204 seen
       - 0.5796 unseen
 [1] ZSL accuracy [unseen ==> unseen]: 53.8%
-[1] ZSL accuracy [unseen ==> all]: 23.3%
+[1] ZSL accuracy [unseen ==> all]: 23.4%
 [1] ZSL accuracy [seen ==> seen]: 96.3%
 [1] ZSL accuracy [seen ==> all]: 90.8%
 [1] ZSL accuracy [all ==> all]: 54.5%
 
 [3] ZSL accuracy [unseen ==> unseen]: 81.1%
-[3] ZSL accuracy [unseen ==> all]: 70.1%
+[3] ZSL accuracy [unseen ==> all]: 70.2%
 [3] ZSL accuracy [seen ==> seen]: 99.8%
 [3] ZSL accuracy [seen ==> all]: 98.7%
 [3] ZSL accuracy [all ==> all]: 83.7%
+unseen - 0 or O:		Guess: Q - 45.26		Guess: 0 or O - 25.25	Guess: C - 13.87	Guess: 2 - 2.73		Guess: G - 2.39		
+unseen - 1:			Guess: 1 - 66.97		Guess: 7 - 17.34	Guess: T - 9.90		Guess: Y - 1.55		Guess: L - 0.83		
+unseen - 2:			Guess: Z - 67.17		Guess: 3 - 8.48		Guess: 2 - 8.15		Guess: Q - 4.98		Guess: L - 1.53		
+unseen - 3:			Guess: 5 - 35.79		Guess: Z - 28.15	Guess: 3 - 23.25	Guess: 9 - 4.89		Guess: S - 2.51		
+unseen - 4:			Guess: 9 - 60.73		Guess: Y - 6.81		Guess: 8 - 6.42		Guess: 4 - 6.14		Guess: W - 5.04		
+  seen - 5:			Guess: 5 - 89.88		Guess: S - 5.58		Guess: 8 - 2.96		Guess: 9 - 0.98		Guess: 6 - 0.17		
+unseen - 6:			Guess: 6 - 33.58		Guess: G - 33.01	Guess: 5 - 18.94	Guess: 8 - 8.93		Guess: U - 1.02		
+unseen - 7:			Guess: 9 - 73.10		Guess: 7 - 23.52	Guess: Z - 1.52		Guess: T - 0.44		Guess: 1 - 0.40		
+unseen - 8:			Guess: 5 - 30.84		Guess: 9 - 20.41	Guess: B - 13.58	Guess: 8 - 8.64		Guess: 3 - 6.21		
+  seen - 9:			Guess: 9 - 97.97		Guess: 5 - 0.79		Guess: 4 - 0.43		Guess: S - 0.23		Guess: 8 - 0.13		
+unseen - A:			Guess: R - 40.51		Guess: K - 23.13	Guess: P - 10.14	Guess: A - 8.99		Guess: G - 4.74		
+unseen - B:			Guess: B - 37.49		Guess: G - 24.93	Guess: Z - 6.95		Guess: K - 6.63		Guess: R - 5.61		
+  seen - C:			Guess: C - 98.39		Guess: G - 0.67		Guess: E - 0.21		Guess: F - 0.15		Guess: Z - 0.10		
+unseen - D:			Guess: Q - 29.57		Guess: D - 14.67	Guess: 2 - 13.29	Guess: Z - 10.92	Guess: 3 - 6.65		
+unseen - E:			Guess: F - 33.65		Guess: C - 18.95	Guess: G - 17.91	Guess: B - 8.27		Guess: Z - 6.31		
+  seen - F:			Guess: F - 99.40		Guess: G - 0.17		Guess: S - 0.17		Guess: T - 0.17		Guess: I - 0.09		
+  seen - G:			Guess: G - 98.16		Guess: 6 - 0.26		Guess: C - 0.24		Guess: 4 - 0.16		Guess: Q - 0.16		
+unseen - H:			Guess: H - 34.37		Guess: M - 14.87	Guess: N - 13.22	Guess: X - 11.93	Guess: K - 8.09		
+unseen - I:			Guess: Z - 45.80		Guess: I - 28.39	Guess: 3 - 9.20		Guess: J - 8.12		Guess: L - 4.02		
+unseen - J:			Guess: J - 26.03		Guess: I - 21.16	Guess: 3 - 13.91	Guess: S - 11.87	Guess: L - 11.29		
+unseen - K:			Guess: R - 36.64		Guess: K - 25.41	Guess: A - 15.65	Guess: X - 13.33	Guess: C - 1.89		
+unseen - L:			Guess: C - 55.45		Guess: L - 22.15	Guess: Z - 14.85	Guess: E - 1.78		Guess: R - 1.23		
+unseen - M:			Guess: N - 55.71		Guess: M - 19.31	Guess: H - 8.93		Guess: X - 5.16		Guess: T - 3.27		
+  seen - N:			Guess: N - 96.51		Guess: H - 2.37		Guess: X - 0.23		Guess: M - 0.19		Guess: Z - 0.08		
+neithr - 0 or O:			
+unseen - P:			Guess: F - 57.94		Guess: P - 24.96	Guess: T - 11.19	Guess: R - 1.49		Guess: Q - 0.99		
+  seen - Q:			Guess: Q - 94.98		Guess: G - 2.32		Guess: P - 0.58		Guess: 4 - 0.41		Guess: 0 or O - 0.36		
+  seen - R:			Guess: R - 94.48		Guess: A - 1.31		Guess: P - 1.19		Guess: K - 1.07		Guess: C - 0.43		
+  seen - S:			Guess: S - 96.54		Guess: 5 - 1.68		Guess: 3 - 0.70		Guess: G - 0.41		Guess: J - 0.24		
+  seen - T:			Guess: T - 98.87		Guess: F - 0.51		Guess: 1 - 0.16		Guess: I - 0.14		Guess: Z - 0.10		
+  seen - U:			Guess: U - 91.30		Guess: V - 3.03		Guess: Y - 2.45		Guess: W - 2.13		Guess: E - 0.17		
+unseen - V:			Guess: W - 30.34		Guess: U - 23.41	Guess: Y - 18.84	Guess: V - 18.20	Guess: N - 6.98		
+unseen - W:			Guess: W - 43.27		Guess: H - 34.58	Guess: N - 16.74	Guess: V - 1.83		Guess: M - 1.21		
+unseen - X:			Guess: X - 66.85		Guess: N - 4.74		Guess: Y - 4.42		Guess: K - 4.24		Guess: M - 3.84		
+unseen - Y:			Guess: 1 - 32.78		Guess: T - 30.54	Guess: Y - 16.23	Guess: N - 5.00		Guess: 4 - 2.21		
+  seen - Z:			Guess: Z - 99.18		Guess: T - 0.25		Guess: L - 0.23		Guess: 2 - 0.08		Guess: 3 - 0.07		

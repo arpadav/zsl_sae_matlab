@@ -32,31 +32,28 @@ data_unicode = [48:(48 + 9), 65:(65 + 25)];
 labels_ref_table = [data_labels' data_unicode'];
 
 %% resize saved figures
-dp = "data/data1/classify1/538 preds2/";
-num_iter = 25;
-% numpixcut_lr = 90;
-% numpixcut_top = 1;
-% numpixcut_bot = 92;
-% for iter = 1:num_iter
-%     png = imread(strcat(dp, "p", string(iter), ".png"));
-% %     imshow(png(numpixcut_top:end-numpixcut_bot, numpixcut_lr:end-numpixcut_lr, :));
-% %     disp("bruh");
-% %     imwrite(png(numpixcut_top:end-numpixcut_bot, numpixcut_lr:end-numpixcut_lr, :), strcat(dp, "p", string(iter), ".png"));
-% end
+dp = "data/data1/classify1/538 preds/";
+num_iter = 40;
+numpixcut_lr = 95;
+numpixcut_top = 1;
+numpixcut_bot = 92;
+for iter = 1:num_iter
+    png = imread(strcat(dp, "p", string(iter), ".png"));
+%     imshow(png(numpixcut_top:end-numpixcut_bot, numpixcut_lr:end-numpixcut_lr, :));
+%     disp("bruh");
+    imwrite(png(numpixcut_top:end-numpixcut_bot, numpixcut_lr:end-numpixcut_lr, :), strcat(dp, "p", string(iter), "_cr.png"));
+end
 
 %% combine saved figures
-dp = "data/data0/classify1/838 preds2/";
-num_iter = 25;
+dp = "data/data1/classify1/538 preds/";
+num_iter = 40;
 png = [];
 pngs = [];
 for iter = 1:num_iter
-%     png = [png, imread(strcat(dp, "p", string(iter), ".png"))];
+    png = [png, imread(strcat(dp, "p", string(iter), "_cr.png"))];
     if ~logical(mod(iter, 5))
         pngs = [pngs; png];
         png = [];
     end
-%     imshow(png(numpixcut_top:end-numpixcut_bot, numpixcut_lr:end-numpixcut_lr, :));
-%     disp("bruh");
-%     imwrite(png(numpixcut_top:end-numpixcut_bot, numpixcut_lr:end-numpixcut_lr, :), strcat(dp, "p", string(iter), ".png"));
 end
-% imwrite(pngs, strcat(dp, "838comb2.png"));
+imwrite(pngs, strcat(dp, "538comb.png"));
