@@ -1,0 +1,11 @@
+data/
+*.asv
+!lrefmat.mat
+!alphabet_uppercase_d.mat
+!alphabet_uppercase_l.mat
+!digits_d.mat
+!digits_l.mat
+!data1.mat
+!data0.mat
+!data_838.mat
+!data_538.mat
