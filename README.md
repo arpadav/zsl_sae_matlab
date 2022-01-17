@@ -1,5 +1,11 @@
-**Independent study - Arpad Voros
+# Independent Study - Arpad Voros
+'One click' Demo of study results uploaded. (updated as of 01/16/2022)
 
-Raw script
+# useful:
+one_click_demo.m - RUN THIS FOR REPORT RESULTS
+eval_model.m - used to evaluate model, run section by section for full efficacy
 
-'One click' Demo of study results not uploaded yet, but will be soon. (updated as of 12/09/2021)
+# generally ignore:
+train_model.m - used to train models and save
+ece633_workbench.m - raw workbench
+testing_stuff.m - raw workbench
